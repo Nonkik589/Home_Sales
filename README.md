@@ -1,7 +1,7 @@
 # Home_Sales
 
 ## Overview
-- Reads the home_sales_revised.csv and creates a temporary table for the SQL queries\
+- Reads the home_sales_revised.csv and creates a temporary table for the SQL queries
 
 - Answers the following given questions 
    - What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
